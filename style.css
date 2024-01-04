@@ -1,0 +1,31 @@
+.navigation-li {
+    display: inline;
+    color: white;
+}
+
+body {
+    background: url("assets/images/background.svg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.intro-container {
+    color: white;
+    margin: 2vh 2vw;
+    width: 60%;
+}
+
+.intro-container p {
+    line-height: 1.5;
+}
+
+.navigation-bar {
+    margin: 2vh 2vw;
+    color: white;
+    display: flex;
+}
+
