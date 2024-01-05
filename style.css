@@ -55,7 +55,6 @@ a {
     height: 35vh;
     margin: 2vh 2vw;
     border-radius: 3vh;
-    object-fit: cover;
 }
 
 .project-box img {
