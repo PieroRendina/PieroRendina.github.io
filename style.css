@@ -58,7 +58,7 @@ a {
     border-radius: 3vh;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
     .project-box {
         width: 80vw;
         height: 35vh;
